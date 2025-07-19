@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gadgetspidy.oneinfo",
+      "sha256_cert_fingerprints":
+        ["9A:3F:B2:8C:7F:0D:EA:91:F6:12:73:56:8E:B2:3F:BC:A6:7B:24:8C:C1:9D:F2:2F:65:ED:4D:7A:6D:34:7B:86"]
+    }
+  }
+]

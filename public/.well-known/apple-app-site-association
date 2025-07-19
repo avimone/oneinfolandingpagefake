@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "UL4CV5NJF3.com.gadgetspidy.oneinfo"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "UL4CV5NJF3.com.gadgetspidy.oneinfo"
+    ]
+  }
+}

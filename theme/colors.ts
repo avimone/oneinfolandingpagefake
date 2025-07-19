@@ -1,0 +1,7 @@
+export const COLORS = {
+  PRIMARY: "#4285F4",
+  SECONDARY: "#2c3e50",
+  TEXT_PRIMARY: "#34495e",
+  TEXT_SECONDARY: "#747d8c",
+  WHITE:"#FFFFFF"
+};
